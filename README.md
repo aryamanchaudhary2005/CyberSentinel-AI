@@ -6,8 +6,6 @@ CyberSentinel AI is a modular cybersecurity framework that uses **Large Language
 
 The framework is built on top of **Microsoft AutoGen** and provides a collection of agents, actions, tools, and predefined scenarios that can be combined and customized for security automation, analysis, investigation, and experimentation.
 
-> **Note:** This repository is based on and builds upon the open-source work originally developed by [NVISOsecurity](https://github.com/NVISOsecurity/cyber-security-llm-agents). See the [Attribution](#attribution) section for details.
-
 ---
 
 ## Overview
